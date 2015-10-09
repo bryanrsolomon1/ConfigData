@@ -1,4 +1,5 @@
 ---
+verify-server: 3 is a go
 eureka:
   client:
     serviceUrl:
